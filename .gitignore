@@ -1,0 +1,22 @@
+# 虚拟环境
+.venv/
+venv/
+
+# PyCharm 配置
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 训练输出与模型权重
+runs/
+*.pt
+*.pth
+
+# 数据集（如果 dataset_opt 是数据目录）
+dataset_opt/
+
+# 系统杂项
+Thumbs.db
+Desktop.ini
